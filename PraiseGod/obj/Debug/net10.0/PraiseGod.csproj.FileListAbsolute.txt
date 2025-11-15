@@ -1,0 +1,14 @@
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\bin\Debug\net10.0\PraiseGod.exe
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\bin\Debug\net10.0\PraiseGod.deps.json
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\bin\Debug\net10.0\PraiseGod.runtimeconfig.json
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\bin\Debug\net10.0\PraiseGod.dll
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\bin\Debug\net10.0\PraiseGod.pdb
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\obj\Debug\net10.0\PraiseGod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\obj\Debug\net10.0\PraiseGod.AssemblyInfoInputs.cache
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\obj\Debug\net10.0\PraiseGod.AssemblyInfo.cs
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\obj\Debug\net10.0\PraiseGod.csproj.CoreCompileInputs.cache
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\obj\Debug\net10.0\PraiseGod.dll
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\obj\Debug\net10.0\refint\PraiseGod.dll
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\obj\Debug\net10.0\PraiseGod.pdb
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\obj\Debug\net10.0\PraiseGod.genruntimeconfig.cache
+C:\Users\tradi\OneDrive\Desktop\PraiseGod\obj\Debug\net10.0\ref\PraiseGod.dll
