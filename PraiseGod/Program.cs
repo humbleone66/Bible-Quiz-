@@ -132,6 +132,132 @@
     Console.WriteLine(answer); 
     Console.WriteLine("This is now bone of my bones, and flesh of my flesh; she shall be called Woman, because she was taken out of Man");
 
+    Console.WriteLine("What does Genesis say a man should do after gaining a wife?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He shall leave his father and mother, and shall cleave unto his wife: and they shall be one flesh");
+
+    Console.WriteLine("Genesis chapter 2 states they were both naked but they were not _______");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("ashamed");
+
+    Console.WriteLine("Which brother between Cain and Abel was mentioned first?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Cain");
+
+    Console.WriteLine("Which brother between Cain and Abel was mentioned second?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Abel");
+
+    Console.WriteLine("What was Abel a keeper of?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("sheep");
+
+    Console.WriteLine("What was Cain a tiller of");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("the ground");
+
+    Console.WriteLine("What did Cain bring as an offering to the Lord?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Fruit of the ground");
+
+    Console.WriteLine("What did Abel bring as an offering to the Lord?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("The firstlings of his flock and of the fat thereof");
+
+    Console.WriteLine("What was the Lord's reaction to Cain and Abel's offerings?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He had respect for Abel's offerings but not Cain's");
+
+    Console.WriteLine("How did Abel die?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Cain slew him because he was jealous that the Lord approved Abel's offering and not his");
+
+    Console.WriteLine("What was the result of Cain killing Abel?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("The Lord punished him, Cain was banished and received his mark");
+
+    Console.WriteLine("Where did Cain dwell after he was banished from the presence of the Lord?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He resided east of Eden in the land of Nod");
+
+    Console.WriteLine("What was the name of Cain's first son?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Enoch");
+
+    Console.WriteLine("What did Cain name the city he built?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He named it after Enoch, his son");
+
+    Console.WriteLine("Who were the descendents of Enoch?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Enoch begat Irad, Irad begat Mehujael, Mehujael begat Methusael, Methusael begat Lamech");
+
+    Console.WriteLine("What was Adam's third son called?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Seth");
+
+    Console.WriteLine("What was Seth's son called?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Enos");
+
+    Console.WriteLine("What was the human race called in Genesis 5?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Adam");
+
+    Console.WriteLine("How long did Adam live before he begat Seth?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("130 years");
+
+    Console.WriteLine("How long did Adam live after he begat Seth?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("800 years");
+
+    Console.WriteLine("How long did Seth live?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("912 years in total");
+
+    Console.WriteLine("How many years did Adam live in total?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("930 years");
+
+    Console.WriteLine("How does the Bible describe Noah in Genesis 6?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("As a just and perfect man in his generations");
+
+    Console.WriteLine("What did God instruct Noah to do?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Build an Ark");
+
+    Console.WriteLine("What did God do to the earth in Genesis 6?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He sent a flood and destroyed it");
+
+
             }
         }
     }
