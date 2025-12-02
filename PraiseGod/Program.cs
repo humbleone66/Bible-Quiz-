@@ -257,6 +257,51 @@
     Console.WriteLine(answer); 
     Console.WriteLine("He sent a flood and destroyed it");
 
+    Console.WriteLine("Who found grace in the eyes of the Lord?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Noah");
+
+    Console.WriteLine("What was Noah's description in Genesis 6?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He was described as a just man and perfect in his generations");
+
+    Console.WriteLine("What were the names of Noah's sons as listed in Genesis 6?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Shem, Ham and Japheth");
+
+    Console.WriteLine("What was said about Earth in Genesis 6:11?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("The Earth was corrupt and filled with violence");
+
+    Console.WriteLine("What were the dimensions of the Ark?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("It was three hundred cubits in length, the breadth was fifty cubits and the height is thirty cubits");
+
+    Console.WriteLine("How many stories did the Ark have?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Three stories");
+
+    Console.WriteLine("God said in Genesis 7:4 'for yet ____ days' ");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("seven");
+
+    Console.WriteLine("In Genesis 7, how many days did God cause it to rain for?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("forty days and forty nights");
+
+    Console.WriteLine("How old was Noah when the flood came?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Six hundred years old");
+
 
             }
         }
