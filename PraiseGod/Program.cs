@@ -302,6 +302,134 @@
     Console.WriteLine(answer); 
     Console.WriteLine("Six hundred years old");
 
+    Console.WriteLine("In Genesis 7, how long did the water prevail upon the earth?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("One hundred and fifty days");
+
+    Console.WriteLine("Which month and day did the ark rest?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("The seventh month on the seventeenth day");
+
+    Console.WriteLine("Where did the ark rest after the flood?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("The mountains of Ararat");
+
+    Console.WriteLine("When were the top of the mountains seen?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("On the first day of the tenth month");
+
+    Console.WriteLine("In Genesis 8:6, how long was it until Noah opened the window of the ark?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Forty days");
+
+    Console.WriteLine("What did the dove bring back to Noah that signified the flood waters had dissipated?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("She had an olive leaf in her mouth");
+
+    Console.WriteLine("In Genesis 8, did Noah make burnt offerings to God?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Yes he did, he built an altar to do so");
+
+    Console.WriteLine("What was God’s promise after the flood?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He said he will not curse the ground any more for man's sake");
+
+    Console.WriteLine("What was the first thing God said to Noah and his sons in Genesis 9?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Be fruitful, and multiply, and replenish the earth ");
+
+    Console.WriteLine("Did God say every beast shall fear man in Genesis 9?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Yes");
+
+    Console.WriteLine("In Genesis 9, what shall be meat for man?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Every moving thing");
+
+    Console.WriteLine("In Genesis 9, what shouldn’t a man eat?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Flesh with blood in it");
+
+    Console.WriteLine("What does Genesis 9:6 say?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Whoso sheddeth man’s blood, by man also shall his blood be shed ");
+
+    Console.WriteLine("What was God’s promise in Genesis 9:11");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there be any more a flood to destroy the earth ");
+
+    Console.WriteLine("What was the rainbow a symbol of in Genesis 9?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("A token of God’s covenant with man not to destroy the earth by a flood");
+
+    Console.WriteLine("What did God say would happen when he brings a cloud over the earth?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("A rainbow shall be seen");
+
+    Console.WriteLine("How old did Noah live after the flood?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("350 years");
+
+    Console.WriteLine("How old was Noah when he died?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("950 years old");
+
+    Console.WriteLine("What was Nimrod's reputation?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He was a mighty hunter");
+
+    Console.WriteLine("In Genesis 11:1, how many languages did people in the earth speak?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Everyone spoke one language");
+
+    Console.WriteLine("In Genesis 11, why did God cause there to be several languages?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Because human beings built a tower to reach the heavens");
+
+    Console.WriteLine("What was this tower called?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("It was called Babel");
+
+    Console.WriteLine("In Genesis 11:9, what else did God do as a consequence of this?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He scattered them across the face of the earth");
+
+    Console.WriteLine("In Genesis 12:1, what was God’s command to Abram?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("To leave his nation");
+
+   /* Console.WriteLine("");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine(""); */
+
+
+
+
 
             }
         }
