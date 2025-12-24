@@ -395,7 +395,7 @@
     Console.WriteLine("What was Nimrod's reputation?");
     answer = Console.ReadLine();
     Console.WriteLine(answer); 
-    Console.WriteLine("He was a mighty hunter");
+    Console.WriteLine("He was a mighty hunter before the Lord");
 
     Console.WriteLine("In Genesis 11:1, how many languages did people in the earth speak?");
     answer = Console.ReadLine();
@@ -422,7 +422,107 @@
     Console.WriteLine(answer); 
     Console.WriteLine("To leave his nation");
 
-   /* Console.WriteLine("");
+    Console.WriteLine("What did God say he would do for Abram in Genesis 12:2?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing");
+
+    Console.WriteLine("What did Abram do in Genesis 12:4?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("So Abram departed, as the Lord had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran");
+
+    Console.WriteLine("What land did Abram go into in Genesis 12:5?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Canaan");
+
+    Console.WriteLine("What did Abram do in Genesis 12:7?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He built an altar for the Lord");
+
+    Console.WriteLine("In Genesis 12, what did Abram ask Sarai to tell Pharoah?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("That she was his sister");
+
+    Console.WriteLine("In Genesis 12, why did God punish Pharoah with plagues?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Because he took Sarai in his house");
+
+    Console.WriteLine("In Genesis 13, why did Lot and Abram separate?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("There was a strife between Abram’s herdsmen and Lot’s herdsmen");
+
+    Console.WriteLine("What did Abram say in response to this strife?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we be brethren. After this, they separated ");
+
+    Console.WriteLine("Where did Lot go after the strife?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He went to the plain of Jordan ");
+
+    Console.WriteLine("Where did Abram go after the strife?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("To the land of Canaan");
+
+    Console.WriteLine("What was the reputation of the men of Sodom?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("They were sinners and exceedingly wicked ");
+
+    Console.WriteLine("At the end of Genesis 13, where did Abram move?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He went to the plain of Mamre, which is in Hebron");
+
+    Console.WriteLine("What did he do after he got to Mamre?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He built an altar for the Lord ");
+
+    Console.WriteLine("What happened to Lot in Genesis 14?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He was taken captive");
+
+    Console.WriteLine("What was Melchizedek king of?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Salem");
+
+    Console.WriteLine("As Sarai didn’t give Abram a heir, what was her suggestion?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("For him to lay with Hagar");
+
+    Console.WriteLine("What nation was Hagar from?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Egypt");
+
+    Console.WriteLine("Did Abram marry Hagar?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Yes he did");
+
+    /*Console.WriteLine("");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("");
+
+    Console.WriteLine("");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("");
+
+    Console.WriteLine("");
     answer = Console.ReadLine();
     Console.WriteLine(answer); 
     Console.WriteLine(""); */
