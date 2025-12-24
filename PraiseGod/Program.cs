@@ -512,7 +512,92 @@
     Console.WriteLine(answer); 
     Console.WriteLine("Yes he did");
 
-    /*Console.WriteLine("");
+    Console.WriteLine("What was Sarai’s reaction to Hagar becoming pregnant");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("She was despised in Sarai’s eyes");
+
+    Console.WriteLine("Why did Hagar flee from Sarai?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Sarai dealt hardly with her");
+
+    Console.WriteLine("What did the Angel of the Lord instruct Hagar to do?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("To return to Sarai and submit to her");
+
+    Console.WriteLine("What was the Lord’s promise to Hagar?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("That her seed will be multiplied");
+
+    Console.WriteLine("What was the name of Hagar's son in Genesis 16?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Ishmael, because the Lord heard her affliction");
+
+    Console.WriteLine("What was prophesied about Ishmael in Genesis 16?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("And he will be a wild man; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren.");
+
+    Console.WriteLine("How old was Abram when Hagar bore him a son?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Abram was fourscore and six years old, when Hagar bare Ishmael to Abram.");
+
+    Console.WriteLine("When Abram was 90 years old and nine, what did God do?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("The LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.");
+
+    Console.WriteLine("What was Abram's name changed to?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Abraham");
+
+    Console.WriteLine("Did God promise to give Abraham and his seed the land of Canaan?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He did");
+
+    Console.WriteLine("What was Sarai's name changed to?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Sarah");
+
+    Console.WriteLine("Why was Abraham doubtful about getting more children?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("His age");
+
+    Console.WriteLine("What was to be the name of Abraham and Sarah's next child?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Isaac");
+
+    /* Console.WriteLine("");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("");
+
+    Console.WriteLine("");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("");
+
+    Console.WriteLine("");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("");
+
+    Console.WriteLine("");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("");
+
+    Console.WriteLine("");
     answer = Console.ReadLine();
     Console.WriteLine(answer); 
     Console.WriteLine("");
