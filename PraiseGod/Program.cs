@@ -7,6 +7,53 @@
             static void Main(string[] args)
             {
 
+                {
+            Console.WriteLine("Choose a quiz:");
+            Console.WriteLine("a) Genesis 1-10 Quiz");
+            Console.WriteLine("b) Genesis 10-20 Quiz");
+            Console.WriteLine("c) Genesis 20-30 Quiz");
+            /*
+            Console.WriteLine("d) Tower of Babel Quiz");
+            */
+
+            string input = Console.ReadLine(); // safer than ReadKey
+            if (string.IsNullOrEmpty(input))
+            {
+                Console.WriteLine("No input provided.");
+                return;
+            }
+
+            char choice = input[0]; // take first character
+
+
+            switch (choice)
+            {
+                case 'a':
+                    Genesis1to10quiz();
+                    break;
+                case 'b':
+                    Genesis10to20quiz();
+                    break;
+                case 'c':
+                    Genesis20to30quiz();
+                    break;
+                    /*
+                case 'd':
+                    TowerOfBabelQuiz();
+                    break;
+                    */
+                default:
+                    Console.WriteLine("Invalid choice. Please select a, b, or c");
+                    break;
+            }
+        }
+
+
+
+                 static void Genesis1to10quiz()
+        {
+
+
     Console.WriteLine("What was the first thing God said in Genesis?");
     string answer = Console.ReadLine();
     Console.WriteLine(answer); 
@@ -397,8 +444,13 @@
     Console.WriteLine(answer); 
     Console.WriteLine("He was a mighty hunter before the Lord");
 
+            }
+
+             static void Genesis10to20quiz()
+        {
+
     Console.WriteLine("In Genesis 11:1, how many languages did people in the earth speak?");
-    answer = Console.ReadLine();
+    string answer = Console.ReadLine();
     Console.WriteLine(answer); 
     Console.WriteLine("Everyone spoke one language");
 
@@ -577,7 +629,157 @@
     Console.WriteLine(answer); 
     Console.WriteLine("Isaac");
 
-    /* Console.WriteLine("");
+    Console.WriteLine("How did God manifest in Genesis 18?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("As three men");
+
+    Console.WriteLine("What did God say he would do if there were any righteous persons in Sodom and Gomorrah ");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He said he would spare the whole city even if some were righteous ");
+
+    Console.WriteLine("Why did the men of Sodom and Gomorrah surround Lot’s house?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("They sought to assault the Angels taking rest there");
+
+    Console.WriteLine("When Lot attempted to defend the Angels what happened?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("The Angels pulled him inside the house and struck the men at the door with blindness, so they could not find the door ");
+
+    Console.WriteLine("What did the Angels tell Lot when he fled Sodom and Gomorrah");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Not to look back and to flee far from there");
+
+    Console.WriteLine("What city did Lot flee to?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Zoar");
+
+    Console.WriteLine("What rained on Sodom and Gomorrah?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Fire and Brimstone");
+
+    Console.WriteLine("What happened to Lot’s wife?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("She looked back and become a pillar of salt");
+
+    Console.WriteLine("Why did Abimelech send Sarah back to Abraham?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("God came to him in a dream and told him to");
+
+    Console.WriteLine("What else did Abimelech give Abraham?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Cattle and servants");
+
+            }
+
+            static void Genesis20to30quiz()
+        {
+
+
+    Console.WriteLine("How old was Abraham when Isaac was born");
+    string answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He was 100 years old ");
+
+    Console.WriteLine("What did Abraham do when Isaac was weaned?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He made a great feast the same day");
+
+    Console.WriteLine("Why did Abraham send Hagar away?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Sarah wanted her sent away, God told him to hearken to her voice");
+
+    Console.WriteLine("When Hagar ran out of water, what happened?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("God sent an angel to show her to a well of water");
+
+    Console.WriteLine("Where did Hagar's son grow up?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("The wilderness of Paran");
+
+    Console.WriteLine("Was he an archer?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Yes he was");
+
+    Console.WriteLine("Did Abimelech seek to make a covenant with Abraham?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Yes he did");
+
+    Console.WriteLine("What was the well that Abraham built called?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Beer-sheba");
+
+    Console.WriteLine("Where did Abraham and Abimelech make their covenant?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Beer-sheba");
+
+    Console.WriteLine("What did Abraham plant in Beer-sheba?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("A grove");
+
+    Console.WriteLine("Which land was Abraham instructed to take his son into?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("The land of Moriah");
+
+    Console.WriteLine("When he was going to sacrifice his son, what did the Angel do?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He stopped him and showed him to a ram to sacrifice");
+
+    Console.WriteLine("Why did God do this?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("To test Abraham's faithfulness");
+
+    Console.WriteLine("What did he call the place where he was going to sacrifice his son?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Jehovah-Jireh");
+
+    Console.WriteLine("How long did Sarah live?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("127 years");
+
+    Console.WriteLine("Where did Sarah die?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Kitjath-arba: otherwise known as Hebron in the land of Canaan");
+
+    Console.WriteLine("Where was Sarah buried?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("In the field of Machpelah");
+
+        }
+
+        /*
+
+    Console.WriteLine("");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("");
+
+    Console.WriteLine("");
     answer = Console.ReadLine();
     Console.WriteLine(answer); 
     Console.WriteLine("");
