@@ -12,9 +12,7 @@
             Console.WriteLine("a) Genesis 1-10 Quiz");
             Console.WriteLine("b) Genesis 10-20 Quiz");
             Console.WriteLine("c) Genesis 20-30 Quiz");
-            /*
-            Console.WriteLine("d) Tower of Babel Quiz");
-            */
+            Console.WriteLine("d) Matthew 1-10 Quiz");
 
             string input = Console.ReadLine(); // safer than ReadKey
             if (string.IsNullOrEmpty(input))
@@ -37,13 +35,11 @@
                 case 'c':
                     Genesis20to30quiz();
                     break;
-                    /*
                 case 'd':
-                    TowerOfBabelQuiz();
+                    Matthew1to10quiz();
                     break;
-                    */
                 default:
-                    Console.WriteLine("Invalid choice. Please select a, b, or c");
+                    Console.WriteLine("Invalid choice. Please select a, b, c or d");
                     break;
             }
         }
@@ -772,49 +768,155 @@
 
         }
 
-        /*
+    static void Matthew1to10quiz()
+     {
+
+    Console.WriteLine("Who was Mary's husband?");
+    string answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Joseph");
+
+    Console.WriteLine("Who was Joseph's father?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Jacob");
+
+    Console.WriteLine("How many generations are there from Abraham to David?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Fourteen generations");
+
+    Console.WriteLine("How many generations are there from David to the carrying away into Babylon?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Fourteen generations");
+
+    Console.WriteLine("How many generations are there from the carrying away into Babylon unto Christ?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Fourteen generations");
+
+    Console.WriteLine("How was Jesus conceived?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Mary was found with child of the Holy Ghost");
+
+    Console.WriteLine("Did an angel visit Joseph to confirm this to him?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Yes");
+
+    Console.WriteLine("What did the angel say to Joseph in his dream?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("To call the baby Jesus, because he will save His people from their sins");
+
+    Console.WriteLine("What does Emmanuel mean?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("God with us");
+
+    Console.WriteLine("Is it true Joseph did not know his wife until Jesus was born?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Yes");
+
+    Console.WriteLine("Where was Jesus born?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("In Bethlehem of Judaea");
+
+    Console.WriteLine("Who was the ruling king at that time?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Herod");
+
+    Console.WriteLine("Where did the wise men come from?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("From east to Jerusalem");
+
+    Console.WriteLine("What did they refer to Him as when trying to find him?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("King of the Jews");
+
+    Console.WriteLine("What else did they say?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("That they saw His star in the East and came to worship Him");
+
+    Console.WriteLine("How did Herod feel when he heard these things?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He was troubled, all of Jerusalem as well");
+
+    Console.WriteLine("What did he do when he heard this?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He summoned the chief priests and scribes to find out where Christ would be born");
+
+    Console.WriteLine("What was their response?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Bethlehem of Judaea");
+
+    Console.WriteLine("Who sent the wise men to Bethlehem to find Jesus?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("King Herod");
+
+    Console.WriteLine("How did they find Jesus?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("By following the star that they saw in the East");
+
+    Console.WriteLine("What did they do when they found him?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("They presented him with gold, frankincense and myrrh");
+
+    Console.WriteLine("What did God warn the wise men of in a dream?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Not to return to Herod");
+
+    Console.WriteLine("What was their response to God’s message in their dream?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("They departed into their own country another way");
+
+    Console.WriteLine("After this, what did the angel say to Joseph in a dream?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He told him to take Jesus and Mary to Egypt, as King Herod would like to seek out Jesus to destroy him");
+
+    Console.WriteLine("How long did they stay in Egypt?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Until King Herod died");
+
+    Console.WriteLine("What prophecy did this fulfill?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("The Lord had said through his prophet Out of Egypt have I called my son");
+
+    Console.WriteLine("What did Herod do when he saw that the wise men had mocked him?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He was exceeding wroth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under");
+
+    Console.WriteLine("What prophecy did this slaughter fulfill?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("“In Rama was there a voice heard, Lamentation, and weeping, and great mourning, Rachel weeping for her children, And would not be comforted, because they are not.” This prophecy came from Jeremy the prophet");
 
     Console.WriteLine("");
     answer = Console.ReadLine();
     Console.WriteLine(answer); 
     Console.WriteLine("");
 
-    Console.WriteLine("");
-    answer = Console.ReadLine();
-    Console.WriteLine(answer); 
-    Console.WriteLine("");
-
-    Console.WriteLine("");
-    answer = Console.ReadLine();
-    Console.WriteLine(answer); 
-    Console.WriteLine("");
-
-    Console.WriteLine("");
-    answer = Console.ReadLine();
-    Console.WriteLine(answer); 
-    Console.WriteLine("");
-
-    Console.WriteLine("");
-    answer = Console.ReadLine();
-    Console.WriteLine(answer); 
-    Console.WriteLine("");
-
-    Console.WriteLine("");
-    answer = Console.ReadLine();
-    Console.WriteLine(answer); 
-    Console.WriteLine("");
-
-    Console.WriteLine("");
-    answer = Console.ReadLine();
-    Console.WriteLine(answer); 
-    Console.WriteLine("");
-
-    Console.WriteLine("");
-    answer = Console.ReadLine();
-    Console.WriteLine(answer); 
-    Console.WriteLine(""); */
-
-
+    }
 
 
 
