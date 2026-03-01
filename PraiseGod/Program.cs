@@ -911,11 +911,112 @@
     Console.WriteLine(answer); 
     Console.WriteLine("“In Rama was there a voice heard, Lamentation, and weeping, and great mourning, Rachel weeping for her children, And would not be comforted, because they are not.” This prophecy came from Jeremy the prophet");
 
-    Console.WriteLine("");
+    Console.WriteLine("What happened when Herod died?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("An angel came to Joseph and told him to take Jesus and Mary to Israel, he further advised that those which sought Jesus’ life were dead");
+
+    Console.WriteLine("Why did Jesus go to Nazareth?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He heard that Herod’s son Archelaus ruled in Judaea, being warned by God, he turned aside into the parts of Galilee and he went to dwell in a city called Nazareth");
+
+    Console.WriteLine("What prophecy did this fulfill?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("That Jesus will be called a Nazarene");
+
+    Console.WriteLine("Where was John The Baptist preaching?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("In the wilderness of Judaea");
+
+    Console.WriteLine("What was John The Baptist preaching?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("'Repent ye: for the kingdom of heaven is at hand'");
+
+    Console.WriteLine("What did the prophet Esaias say about John The Baptist ");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("'The voice of one crying in the wilderness, Prepare ye the way of the Lord, Make his paths straight.'");
+
+    Console.WriteLine("What was John's raiment made of?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Camel's hair");
+
+    Console.WriteLine("Where was John's leather girdle?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("About his loins");
+
+    Console.WriteLine("Where did the people that John baptized come from?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("'Then went out to him Jerusalem, and all Judæa, and all the region round about Jordan'"); 
+
+        Console.WriteLine("Where were they baptized?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Jordan");
+
+        Console.WriteLine("What religious groups went to spectate on these baptisms?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("The Pharisees and Sadducee’s");
+
+        Console.WriteLine("What does Mathew 3:13 say?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("'Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.'");
+
+        Console.WriteLine("What did the voice from Heaven say after Jesus was baptized?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("'This is my beloved Son, in whom I am well pleased.'");
+
+        Console.WriteLine("What does Matthew 4:17 say?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("'From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.'");
+
+        Console.WriteLine("What did Jesus say to Simon, Peter and Andrew when he first saw them?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("'Follow me, and I will make you fishers of men'");
+
+        Console.WriteLine("What did James and John do when Jesus called them?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("They went with Him");
+
+        Console.WriteLine("What happened in Matthew 4:23?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("'And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.'");
+
+        Console.WriteLine("What kinds of illnesses did Jesus heal at the end of Matthew 4?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Possession, palsy, diseases, torments and lunatick");
+
+        Console.WriteLine("Where did the people that follow Jesus come from?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Galilee, Decapolis, Jerusalem, Judaea and from beyond Jordan");
+
+/*
+            Console.WriteLine("");
     answer = Console.ReadLine();
     Console.WriteLine(answer); 
     Console.WriteLine("");
 
+        Console.WriteLine("");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("");
+*/
     }
 
 
