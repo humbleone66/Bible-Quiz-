@@ -1006,13 +1006,107 @@
     Console.WriteLine(answer); 
     Console.WriteLine("Galilee, Decapolis, Jerusalem, Judaea and from beyond Jordan");
 
-/*
-            Console.WriteLine("");
+            Console.WriteLine("What does Matthew 5:8 say?");
     answer = Console.ReadLine();
     Console.WriteLine(answer); 
-    Console.WriteLine("");
+    Console.WriteLine("Blessed are the pure in heart: for they shall see God");
 
-        Console.WriteLine("");
+        Console.WriteLine("What does does Matthew 5:11-12 say?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.");
+
+        Console.WriteLine("What does Matthew 5:16 say?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.");
+
+        Console.WriteLine("What does Matthew 5:30 say?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.");
+
+                Console.WriteLine("What does Matthew 6:1 state?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.");
+
+        Console.WriteLine("What does Matthew 6:17-18 say about fasting?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("But thou, when thou fastest, anoint thine head, and wash thy face; that thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.");
+
+                Console.WriteLine("What does Matthew 6:24 say regarding two masters?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.");
+
+        Console.WriteLine("What does the Book Of Matthew say about pearls and swine ");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.");
+
+                Console.WriteLine("What does Matthew 7 say about asking?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Ask and you shall receive");
+
+        Console.WriteLine("What does the book of Matthew say about false prophets?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Know them by their fruit");
+
+                Console.WriteLine("What were the people’s reaction to Jesus’ doctrine?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("They were astonished");
+
+        Console.WriteLine("What miracle did Jesus do in Matthew 8:1-4?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He healed a leper");
+
+                Console.WriteLine("What was Jesus’ instruction to the Leper after this?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.");
+
+        Console.WriteLine("What miracle was done in Matthew 8:5-13?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Jesus healed a centurion’s servant that was sick with the palsy");
+
+                Console.WriteLine("What happened in Matthew 8:14-15?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Jesus healed Peter's mother-in-law");
+
+        Console.WriteLine("What miracle did Jesus do in Matthew 8:23-27?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("He calmed the winds and the sea; he stopped a tempest that was impacting their ship");
+
+            Console.WriteLine("What miracle was done in Matthew 8:28-34?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Jesus cast demons out of two men into a herd of swine, which ran into the sea thereafter");
+
+            Console.WriteLine("How did the people of the city react to this?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("They besought Jesus so that he would depart from their coasts");
+
+            Console.WriteLine("What was the miracle in Matthew 9:1-8?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Jesus healed a man sick of the palsy");
+
+            Console.WriteLine("Where did Jesus find Matthew when he called him?");
+    answer = Console.ReadLine();
+    Console.WriteLine(answer); 
+    Console.WriteLine("Sitting at the receipt of custom");
+/*
+            Console.WriteLine("");
     answer = Console.ReadLine();
     Console.WriteLine(answer); 
     Console.WriteLine("");
